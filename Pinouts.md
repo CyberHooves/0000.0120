@@ -10,7 +10,8 @@ Pin numbers refer to the connecting header. LED numbers start with the lowest at
 5. 5
 6. CA
 
-### 6-LED version:
+### 6-LED version 1:
+Six right-angle LEDs
 1. 1
 2. 3
 3. 2
@@ -19,6 +20,31 @@ Pin numbers refer to the connecting header. LED numbers start with the lowest at
 6. 6
 7. CA
 8. CA
+
+### 6-LED version 2:
+Six vertical LEDs with two 2x2 headers.
+J2:
+1. CA
+2. CA
+3. 1
+4. 2
+J7:
+1. 4
+2. 5
+3. 3
+4. 6
+
+### 6-LED version 3
+Six vertical LEDs with one 2x4 header.
+J6:
+1. CA
+2. CA
+3. 1
+4. 2
+5. 3
+6. 4
+7. 5
+8. 6
 
 ### 10-LED (2x5) version:
 1. 2B
